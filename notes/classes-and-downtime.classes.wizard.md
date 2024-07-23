@@ -2,7 +2,7 @@
 id: cucsgn4dxyj8s0bxin26fhg
 title: Wizard
 desc: ""
-updated: 1721740902943
+updated: 1721741071989
 created: 1721729225397
 ---
 
@@ -132,6 +132,6 @@ Trade an allied player's Smarts points for Brawn points, up to -5 Smarts. Can be
 
 - **Spell Uses:** 20
 
-Created an exact physical copy of the target, though without any of the spells or abilities the target has. The clone has the personality of the original, but none of the memories. Should the original target die, if they become a ghost instead of a zombie, they can inhabit the clone's body, retaining their spells, skills and abilities they had in life. Any Level Ups(**TODO: LINK THIS!**) ganed after the creation fo the clone are lost.
+Created an exact physical copy of the target, though without any of the spells or abilities the target has. The clone has the personality of the original, but none of the memories. Should the original target die, if they become a ghost instead of a zombie, they can inhabit the clone's body, retaining their spells, skills and abilities they had in life. Any Level Ups(**TODO: LINK THIS!**) gained after the creation fo the clone are lost.
 
 This is considered an extremely unethical spell.
