@@ -2,13 +2,13 @@
 id: ktuyucmro78j5gkn4h8lq3u
 title: Bard
 desc: ""
-updated: 1721736022011
+updated: 1721737953265
 created: 1721729201181
 ---
 
 ## Becoming a Bard
 
-> .You're perfect. The crowd loves you. You ooze charisma, and the ballads of your adventures make taverns thump and brothels writhe. The jade earned by your performances can keep an entire party armoured, fed and fucked, and your prowess with charming verbosity can trick and seduce anyone that stands on your way.
+> You're perfect. The crowd loves you. You ooze charisma, and the ballads of your adventures make taverns thump and brothels writhe. The jade earned by your performances can keep an entire party armoured, fed and fucked, and your prowess with charming verbosity can trick and seduce anyone that stands on your way.
 >
 > You're an ambassador. A sexual deviant. A soothing symphonist, and a god-damned warrior poet.
 >
