@@ -2,7 +2,7 @@
 id: 281krjck6bob9sb3zgseesr
 title: R
 desc: ""
-updated: 1721895607851
+updated: 1721931896093
 created: 1721894736154
 ---
 
@@ -13,3 +13,5 @@ Location of the [[Rimnnori|glossary.r#rimnori]].
 ## Rimnori
 
 An [[Elven|glossary.e#elf]] faction, obsessed with [[The Iron Kingdom|glossary.i#iron-kingdom-the]].
+
+## River Cities
